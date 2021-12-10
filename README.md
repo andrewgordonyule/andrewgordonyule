@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Andrew 👋 
+* Software Developer from Glasgow, Scotland.
+* Currently studying BSc Software Engineering (Graduate Apprenticeship)
 
 <!--
 **andrewgordonyule/andrewgordonyule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
