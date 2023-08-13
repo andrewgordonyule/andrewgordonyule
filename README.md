@@ -1,6 +1,6 @@
 ### Hi, I'm Andrew 👋 
 * Software Developer from Glasgow, Scotland.
-* I'm a 3rd year BSc Software Engineering student on the Graduate Apprenticeship programme at the University of Glasgow.
+* I'm a 4th year BSc Software Engineering student on the Graduate Apprenticeship programme at the University of Glasgow.
 
 <!--
 **andrewgordonyule/andrewgordonyule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
